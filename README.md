@@ -1,5 +1,5 @@
 # 'GIPHY' App - Alon Nasi
-**Basic Swift Gif Search App provided by 'GIPHY' API services.**
+**Basic Swift Gif Search App using the 'GIPHY' API services.**
 - Project built with MVVM architecture.  
 - Using the 'SwiftyGif' library.  
 - Supports portrait/Landscape.
